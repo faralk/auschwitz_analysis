@@ -9,7 +9,7 @@ This repo contains an analysis of the death of 65,280 prisoners using the Sterbe
 
 The repo is structured as:
 
--   `auschwitz_app' contains code that was used to generate the Shiny web application.
+-   `auschwitz_app` contains code that was used to generate the Shiny web application.
 -   `other` contains details about LLM chat interactions.
 -   `paper` contains the files used to generate the paper, including the Quarto document and reference bibliography file, as well as the PDF of the paper. 
 
