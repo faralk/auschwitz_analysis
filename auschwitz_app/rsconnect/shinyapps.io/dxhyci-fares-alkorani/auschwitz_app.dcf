@@ -1,0 +1,12 @@
+name: auschwitz_app
+title: auschwitz_app
+username: dxhyci-fares-alkorani
+account: dxhyci-fares-alkorani
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11648912
+bundleId: 8447471
+url: https://dxhyci-fares-alkorani.shinyapps.io/auschwitz_app/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
